@@ -1,0 +1,15 @@
+/* src/components/Home.css */
+.sidebar {
+    width: 200px;
+    min-height: 100vh;
+    position: fixed;
+    top: 56px; /* Ajusta según la altura de tu Navbar */
+    left: 0;
+    padding: 10px;
+  }
+  
+  .content {
+    margin-left: 200px; /* Ajusta según el ancho de tu Sidebar */
+    padding: 20px;
+  }
+  
